@@ -1382,6 +1382,7 @@ describe("pow", function() {
 
 А так выглядит полная реализации функции и тестов:
 <details>
+
 ```html
 <!DOCTYPE html>
 <html>
